@@ -52,7 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PSXDH.Model\PSXDH.Model.csproj">
-      <Project>{bdbc1bf6-82d8-40b5-9ced-f063f60b4960}</Project>
+      <Project>{BDBC1BF6-82D8-40B5-9CED-F063F60B4960}</Project>
       <Name>PSXDH.Model</Name>
     </ProjectReference>
   </ItemGroup>

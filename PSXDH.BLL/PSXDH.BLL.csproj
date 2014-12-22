@@ -53,11 +53,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PSXDH.DAL\PSXDH.DAL.csproj">
-      <Project>{d0f111e4-1a98-4b7a-890f-dd8e73518d91}</Project>
+      <Project>{D0F111E4-1A98-4B7A-890F-DD8E73518D91}</Project>
       <Name>PSXDH.DAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\PSXDH.Model\PSXDH.Model.csproj">
-      <Project>{bdbc1bf6-82d8-40b5-9ced-f063f60b4960}</Project>
+      <Project>{BDBC1BF6-82D8-40B5-9CED-F063F60B4960}</Project>
       <Name>PSXDH.Model</Name>
     </ProjectReference>
   </ItemGroup>

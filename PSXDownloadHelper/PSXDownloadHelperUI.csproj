@@ -71,9 +71,6 @@
     <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <SignAssembly>false</SignAssembly>
-  </PropertyGroup>
-  <PropertyGroup>
     <AssemblyOriginatorKeyFile>PSXDownloadHelper_Key.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
@@ -254,19 +251,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PSXDH.BLL\PSXDH.BLL.csproj">
-      <Project>{e58f43cb-7a44-41bc-8bd6-de7dda84a83d}</Project>
+      <Project>{E58F43CB-7A44-41BC-8BD6-DE7DDA84A83D}</Project>
       <Name>PSXDH.BLL</Name>
     </ProjectReference>
     <ProjectReference Include="..\PSXDH.HttpsHelp\PSXDH.HttpsHelp.csproj">
-      <Project>{1ebaa286-e253-4c87-a2fe-f47d859ce892}</Project>
+      <Project>{1EBAA286-E253-4C87-A2FE-F47D859CE892}</Project>
       <Name>PSXDH.HttpsHelp</Name>
     </ProjectReference>
     <ProjectReference Include="..\PSXDH.Model\PSXDH.Model.csproj">
-      <Project>{bdbc1bf6-82d8-40b5-9ced-f063f60b4960}</Project>
+      <Project>{BDBC1BF6-82D8-40B5-9CED-F063F60B4960}</Project>
       <Name>PSXDH.Model</Name>
     </ProjectReference>
     <ProjectReference Include="..\PSXDH.ProxyHelp\PSXDH.ProxyHelp.csproj">
-      <Project>{388a85c4-39a6-4faf-9976-1714c88b397b}</Project>
+      <Project>{388A85C4-39A6-4FAF-9976-1714C88B397B}</Project>
       <Name>PSXDH.ProxyHelp</Name>
     </ProjectReference>
   </ItemGroup>
